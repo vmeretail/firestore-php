@@ -1,5 +1,5 @@
 {
-    "name": "ahsankhatri/firestore-php",
+    "name": "vmeretail/firestore-php",
     "description": "Firestore PHP Client",
     "keywords": [
         "php",
@@ -15,11 +15,16 @@
             "email": "ahsankhatri1992@gmail.com",
             "homepage": "https://ahsaan.me",
             "role": "Developer"
+        },
+        {
+            "name": "Pablo Martelletti",
+            "email": "pmartelletti@gmail.com",
+            "role": "Contributor"
         }
     ],
     "require": {
         "php": ">=5.6.6",
-        "guzzlehttp/guzzle": "~6.0|~5.0|~4.0",
+        "guzzlehttp/guzzle": "~7.0|~6.0|~5.0|~4.0",
         "ext-curl": "*",
         "ext-json": "*"
     },
